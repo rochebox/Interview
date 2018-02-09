@@ -1,0 +1,29 @@
+/* This is my CSS file */
+/* #f4bc42 --  This is orange */
+/* #552700 -- brown for text */
+
+body{
+	background-color: #f4bc42;
+}
+
+h1{
+	font-family: 'Luckiest Guy', cursive;
+	color: #552700;
+	text-align: center;
+	font-size: 5em;
+}
+
+h2{
+	color: salmon;
+	text-align: center;
+}
+
+#food{
+	color: blue;
+	font-weight:bold;
+}
+
+#foodspan{
+	color: red;
+	font-size: 50px;
+}
